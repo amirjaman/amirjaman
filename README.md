@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Your Name]! 🚀
+# 👋 Hi there, I'm Amir Jaman Mondal ! 🚀
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75249&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+in+the+making;MERN+Stack+Enthusiast;Passionate+about+Learning+%26+Building;Always+up+for+a+Challenge!)
 
