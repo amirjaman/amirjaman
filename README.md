@@ -40,9 +40,9 @@
 ---
 
 ### 🌐 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/amirjamanmondal)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-24292E?style=flat-square&logo=githubpages&logoColor=white)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:youremail@example.com)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:amirjamanmondal@onmail.com)
 
 ---
 
